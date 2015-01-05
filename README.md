@@ -1,5 +1,10 @@
 
 Counting steps
+
+
+
+
+
  float vSum = 0;
         for (int i = 0; i < 3; i++) {
             final float v = mYOffset + event.values[i] * mScale[0];
