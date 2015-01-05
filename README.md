@@ -1,0 +1,4 @@
+pedometere
+==========
+
+Counting steps
